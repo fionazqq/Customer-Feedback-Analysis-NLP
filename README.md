@@ -1,6 +1,6 @@
 # NLP-code-sample 
 
-This is a wrap up work sample from the project in Wharton Analytic Fellowship program to understand customer complaints through Natrual Language Processing (NLP) models.
+This is a wrap up work sample from the project in Wharton Analytic Fellowship program to understand customer complaints through Natrual Language Processing (NLP) models. Due to the data agreement, the result are not allowed to show.
 
 ## Sentiment Analysis 
 
